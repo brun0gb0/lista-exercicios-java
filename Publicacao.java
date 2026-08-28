@@ -1,3 +1,8 @@
+/**
+ * Superclasse que representa uma publicação da biblioteca.
+ * Reúne as características comuns aos livros e periódicos.
+ */
+
 public class Publicacao {
 
     private String titulo;
