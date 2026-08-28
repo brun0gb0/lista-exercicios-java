@@ -1,5 +1,8 @@
 public class Aprovacao {
-
+/**
+ * Retorna apenas os estudantes aprovados,
+ * considerando média mínima de 6.
+ */
     public static Estudante[] aprovados(Estudante[] estudantes) {
 
         int quantidadeAprovados = 0;
